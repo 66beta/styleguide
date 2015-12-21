@@ -1,6 +1,7 @@
-#整体样式规则
 Revision 2.23
 https://github.com/google/styleguide/blob/gh-pages/htmlcssguide.xml
+
+#整体样式规则
 
 ##协议
 嵌入式资源省略协议头。
