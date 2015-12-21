@@ -1,6 +1,7 @@
-#css样式规则
 Revision 2.23
 https://github.com/google/styleguide/blob/gh-pages/htmlcssguide.xml
+
+#css样式规则
 
 ##CSS合法性
 尽可能使用有效的CSS。
