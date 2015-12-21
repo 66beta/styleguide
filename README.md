@@ -1,4 +1,4 @@
-# styleguide
+# Google Style Guide in Chinese Frontend Edtion
 Google HTML-CSS-JS Style Guide in Chinese
 
 翻译自[Google Style Guide](https://github.com/google/styleguide)，做了些精简。
